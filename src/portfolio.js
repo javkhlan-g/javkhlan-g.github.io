@@ -161,25 +161,24 @@ const workExperiences = {
       role: "Software Engineer",
       company: "Korfin Holdings",
       companylogo: require("./assets/images/facebookLogo.png"),
-      date: "Apr 2019 – Present (Seoul, Korea)",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
-      ]
+      date: "Apr 2019 – Present",
+      location: "Seoul, Korea",
+      desc: "Global crypto exchange system development and maintenance, Research blockchain technology, Develop the ASTA blockchain core",
     },
     {
       role: "Software Engineer",
       company: "GatherUp",
       companylogo: require("./assets/images/gattherup.png"),
-      date: "Apr 2018 – Oct 2018 (California, USA)",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      date: "Apr 2018 – Oct 2018",
+      location: "California, USA",
+      desc: "Development and maintenance of Gather.com, It is a customer experience and online review engine that enables insights, empowers marketing and converts customers."
     },
     {
       role: "Senior Software Engineer",
       company: "Chinggis Khan Bank",
       companylogo: require("./assets/images/ckbank.png"),
-      date: "Sep 2013 – Sep 2019 (Ulaanbaatar, Mongolia)",
+      date: "Sep 2013 – Sep 2019",
+      location:"Ulaanbaatar, Mongolia",
       desc: "Managing implementations, maintaining of new projects for digital banking, and upgrade to existing services in order to provide efficient and accurate digital banking services to the Bank’s customers."
     },
   ]
