@@ -160,7 +160,7 @@ const workExperiences = {
     {
       role: "Software Engineer",
       company: "Korfin Holdings",
-      companylogo: require("./assets/images/facebookLogo.png"),
+      companylogo: require("./assets/images/kfh.jpg"),
       date: "Apr 2019 – Present",
       location: "Seoul, Korea",
       desc: "Global crypto exchange system development and maintenance, Research blockchain technology, Develop the ASTA blockchain core",
@@ -180,6 +180,14 @@ const workExperiences = {
       date: "Sep 2013 – Sep 2019",
       location:"Ulaanbaatar, Mongolia",
       desc: "Managing implementations, maintaining of new projects for digital banking, and upgrade to existing services in order to provide efficient and accurate digital banking services to the Bank’s customers."
+    },
+    {
+      role: "Senior Information Technology Engineer",
+      company: "Aeromongolia Airlines",
+      companylogo: require("./assets/images/aero.png"),
+      date: "Jun 2011 – Sep 2013",
+      location:"Ulaanbaatar, Mongolia",
+      desc: 'Development & Maintenance of "Airline Enterprise System". It consist of those systems Flight management, Ticket reservation, E-commerce, Boarding, Passenger check-in, BI reporting and 3rd party integration API services'
     },
   ]
 };
