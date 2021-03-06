@@ -1,39 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cd9333fa0cc549d188fd4e1b2cf6f468",
+    "revision": "595b6e37429a5ae90506d212bd443175",
     "url": "/index.html"
   },
   {
-    "revision": "10038f02c2b5982d8f0c",
-    "url": "/static/css/3.3a26ebde.chunk.css"
+    "revision": "195fb32e2c22ffc1ba9a",
+    "url": "/static/css/3.00373544.chunk.css"
   },
   {
-    "revision": "26ab56d3a9b3a94dcefe",
-    "url": "/static/css/4.ee2a0142.chunk.css"
+    "revision": "ceba107d4811b5a43035",
+    "url": "/static/css/4.a922a401.chunk.css"
   },
   {
-    "revision": "0d5d33a323dae8fe4f2d",
-    "url": "/static/css/main.7bb7a37c.chunk.css"
+    "revision": "132aa85921fa727ee0b4",
+    "url": "/static/css/main.bd4e58e4.chunk.css"
   },
   {
-    "revision": "ee569f1aedff39ed5a01",
-    "url": "/static/js/2.11842d75.chunk.js"
+    "revision": "770c95fdf69ff46c0c89",
+    "url": "/static/js/2.1aed36ba.chunk.js"
   },
   {
-    "revision": "10038f02c2b5982d8f0c",
-    "url": "/static/js/3.d1375355.chunk.js"
+    "revision": "195fb32e2c22ffc1ba9a",
+    "url": "/static/js/3.e8de6690.chunk.js"
   },
   {
-    "revision": "26ab56d3a9b3a94dcefe",
-    "url": "/static/js/4.7dd40967.chunk.js"
+    "revision": "ceba107d4811b5a43035",
+    "url": "/static/js/4.3700cb3f.chunk.js"
   },
   {
-    "revision": "0d5d33a323dae8fe4f2d",
-    "url": "/static/js/main.fd0aaa8d.chunk.js"
+    "revision": "132aa85921fa727ee0b4",
+    "url": "/static/js/main.349ce523.chunk.js"
   },
   {
-    "revision": "ad392894ea27df6c0ca3",
-    "url": "/static/js/runtime-main.7138f886.js"
+    "revision": "b26cd1b07a8b84ef2198",
+    "url": "/static/js/runtime-main.1d6deb9e.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -148,12 +148,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/stanfordLogo.3b758ef5.png"
   },
   {
-    "revision": "39eff4a91b01e00a32cb78f3797eec88",
-    "url": "/static/media/talksCardBack.39eff4a9.svg"
+    "revision": "13780cdd0144cacdef25486e2c2503f8",
+    "url": "/static/media/talksCardBack.13780cdd.svg"
   },
   {
-    "revision": "7f0feeedda08cf7d68593454bc2e82b5",
-    "url": "/static/media/talksCardBackAlt.7f0feeed.svg"
+    "revision": "b48e86c9a956d3a3a32ca4a5ae05ddc7",
+    "url": "/static/media/talksCardBackAlt.b48e86c9.svg"
   },
   {
     "revision": "825dff2b42b30fe7a973d5f15c3e446b",
