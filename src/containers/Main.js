@@ -44,17 +44,17 @@ export default class Main extends Component {
         >
           <Header />
           <Greeting />
+          <WorkExperience />
           <Skills />
           <StackProgress />
           <Education />
-          <WorkExperience />
           <Projects />
-          <StartupProject />
+          {/* <StartupProject /> */}
           <Achievement />
           <Blogs />
-          <Talks />
-          <Twitter />
-          <Podcast />
+          {/* <Talks /> */}
+          {/* <Twitter /> */}
+          {/* <Podcast /> */}
           <Profile />
           <Footer />
           <Top />
