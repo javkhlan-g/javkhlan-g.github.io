@@ -12,9 +12,9 @@ on:
 jobs:
   set_token:
     runs-on: ubuntu-latest
-      steps:
+    steps:
+      - name: debug token
         run: echo $REACT_APP_GITHUB_TOKEN
-
 #   build-and-deploy:
 #     runs-on: ubuntu-latest
 #     steps:
