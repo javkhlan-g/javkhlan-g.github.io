@@ -1,15 +1,15 @@
 ﻿import React from "react";
 import "./GithubProfileCard.css";
 import SocialMedia from "../../components/socialMedia/SocialMedia";
-import {contactInfo} from "../../portfolio";
+import { contactInfo } from "../../portfolio";
 import emoji from "react-easy-emoji";
-import {Fade} from "react-reveal";
+import { Fade } from "react-reveal";
 
-export default function GithubProfileCard({prof}) {
+export default function GithubProfileCard({ prof }) {
   if (prof.hireable === true) {
     prof.hireable = "Yes";
   } else {
-    prof.hireable = "No";
+    prof.hireable = "Yes";
   }
   return (
     <Fade bottom duration={1000} distance="20px">

@@ -14,7 +14,7 @@ const greeting = {
   subTitle: emoji(
     "I'm a proactive and innovative software developer with 10+ years of hands-on experience contributing, leading the development of integrated software solutions, mostly banking, airline, and blockchain-based financial systems. I have become passionate about distributed systems development, system architecture in the last 3 years. In addition, curious learner and intellectual adventure seeker."
   ),
-  resumeLink: "./assets/images/javkhlan_resume.pdf",
+  resumeLink: require("./assets/images/javkhlan_resume.pdf"),
   displayGreeting: true, // Set false to hide this section, defaults to true
 };
 
