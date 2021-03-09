@@ -9,20 +9,20 @@ on:
       - main
 #   schedule:
 #     - cron: "0 12 * * 1"
-# jobs:
-#   build-and-deploy:
-#     runs-on: ubuntu-latest
-#     steps:
-#       - name: Checkout 🛎️
-#         uses: actions/checkout@v2 # If you're using actions/checkout@v2 you must set persist-credentials to false in most cases for the deployment to work correctly.
-#         with:
-#           persist-credentials: false
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout 🛎️
+        uses: actions/checkout@v2 # If you're using actions/checkout@v2 you must set persist-credentials to false in most cases for the deployment to work correctly.
+        with:
+          persist-credentials: false
 
-#       - name: Install and Build 🔧 # Build the Project
-#         run: |
+      - name: Install and Build 🔧 # Build the Project
+        run: |
 #           npm install
-#           npm run build
-#           echo $REACT_APP_GITHUB_TOKEN
+          npm run build
+          echo $REACT_APP_GITHUB_TOKEN
 #       - name: Deploy 🚀
 #         uses: JamesIves/github-pages-deploy-action@releases/v3
 #         with:
