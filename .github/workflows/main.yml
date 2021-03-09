@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
       steps:
         - name: set token
-        run: echo $REACT_APP_GITHUB_TOKEN
+          run: echo $REACT_APP_GITHUB_TOKEN
 
 #   build-and-deploy:
 #     runs-on: ubuntu-latest
