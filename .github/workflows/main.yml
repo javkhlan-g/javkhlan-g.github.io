@@ -9,14 +9,14 @@ on:
       - main
 #   schedule:
 #     - cron: "0 12 * * 1"
-jobs:
-  set_token:
-    runs-on: ubuntu-latest
-    steps:
-      - name: debug token
-        run: |
-          npm run build
-          echo $REACT_APP_GITHUB_TOKEN
+# jobs:
+#   set_token:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - name: debug token
+#         run: |
+#           npm run build
+#           echo $REACT_APP_GITHUB_TOKEN
 
 #   build-and-deploy:
 #     runs-on: ubuntu-latest
