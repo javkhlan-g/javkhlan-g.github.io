@@ -320,7 +320,7 @@ const blogSection = {
     },
     {
       url: "https://ebank.ckbank.mn",
-      title: "Digital bank",
+      title: "Internet Bank",
       description:
         "Internet Banking gives to the customers access to all of the banking services from any device with internet access for banking at your convenience in real-time.",
     },
@@ -335,6 +335,30 @@ const blogSection = {
       title: "Aeroticket.mn",
       description:
         "Enterprise airline system. Domestic and International flight management system ",
+    },
+    {
+      url: "https://ebank.ckbank.mn",
+      title: "Smart bank mobile application",
+      description:
+        "This application is designed for the bank customers, It allows to customer make transaction using a such as a mobile phone or tablet.",
+    },
+    {
+      url: "https://www.aeromongolia.mn",
+      title: "Online ticket booking system",
+      description:
+        "A ticket reservation, payment and ticketing sales online / e-Commerce system",
+    },
+    {
+      url: "#",
+      title: "Mongol Post",
+      description:
+        "This system developed for mail tracking service in “Mongol Post”, It is the biggest delivery service company in Mongolia. It allows to them track their parcels",
+    },
+    {
+      url: "#",
+      title: "SMS Bank",
+      description:
+        "The software is SMS based digital banking services for customers.",
     },
   ],
   display: true, // Set false to hide this section, defaults to true
