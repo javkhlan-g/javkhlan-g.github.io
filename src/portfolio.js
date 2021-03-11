@@ -69,11 +69,11 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "c/c#",
-      fontAwesomeClassname: "fab fa-c#",
+      fontAwesomeClassname: "fas fa-code",
     },
     {
       skillName: "c/c++",
-      fontAwesomeClassname: "fab fa-c++",
+      fontAwesomeClassname: "fab fa-cuttlefish",
     },
     {
       skillName: "nodejs",
@@ -97,7 +97,11 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "jquery",
-      fontAwesomeClassname: "fab fa-jquery",
+      fontAwesomeClassname: "fas fa-wifi",
+    },
+    {
+      skillName: "spring boot",
+      fontAwesomeClassname: "fas fa-leaf",
     },
     {
       skillName: "symfony",
@@ -108,8 +112,8 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-laravel",
     },
     {
-      skillName: "oracle",
-      fontAwesomeClassname: "fab fa-oracle",
+      skillName: "rdbms ,nosql",
+      fontAwesomeClassname: "fas fa-database",
     },
     {
       skillName: "aws",
